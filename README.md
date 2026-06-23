@@ -10,8 +10,13 @@ I'm a full-stack developer passionate about building robust applications that so
 - 🔭 Architecting scalable microservices and event-driven systems
 - 🌱 Mastering modern cloud infrastructure and DevOps practices
 - 💬 Always eager to discuss architecture, design patterns, and clean code principles
-- 🦆 **Fun fact:** 99% of my bugs disappear after explaining them to a rubber duck. The remaining 1% require coffee and aggressive debugging.
-- ⚡ Also known for: Spending 10% coding and 90% figuring out why it doesn't work. "It works on my machine" is both a blessing and a curse.
+- 🌍 Open to collaboration and new opportunities
+
+## 🎯 Fun Facts
+
+- 🦆 **99% of my bugs disappear after explaining them to a rubber duck.** The remaining 1% require coffee and aggressive debugging.
+- ⏱️ **I spend 10% of my time coding and 90% figuring out why it doesn't work.**
+- 💻 **"It works on my machine" is both a blessing and a curse.**
 
 ## 🛠️ Tech Stack
 
