@@ -55,7 +55,7 @@ Problem Solving | Communication | Team Collaboration | Leadership | Critical Thi
 
 ## 📌 Featured Projects
 
-- **[LnC](#)** — A showcase of full-stack development excellence combining modern frontend frameworks with scalable backend architecture
+- **[LnC](https://github.com/sxmplycaleb/lnc)** — A showcase of full-stack development excellence combining modern frontend frameworks with scalable backend architecture
 
 *More projects coming soon...*
 
