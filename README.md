@@ -49,8 +49,7 @@ Problem Solving | Communication | Team Collaboration | Leadership | Critical Thi
 
 ## 📊 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/sxmplycaleb?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/sxmplycaleb?style=social)
+[![GitHub Readme Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxmplycaleb)](https://github.com/sxmplycaleb)
 
 ## 📌 Featured Projects
 
