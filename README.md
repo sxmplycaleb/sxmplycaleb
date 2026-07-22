@@ -55,9 +55,9 @@ Problem Solving | Communication | Team Collaboration | Leadership | Critical Thi
 
 ## 📌 Featured Projects
 
-- **[LnC](https://github.com/sxmplycaleb/lnc)** — A showcase of full-stack development excellence combining modern frontend frameworks with scalable backend architecture
+- **[OMANUTRO](https://github.com/sxmplycaleb/OMANUTRO)** — A showcase of full-stack development excellence combining modern frontend frameworks with scalable backend architecture
 
-*More projects coming soon...*
+- **[URL-Shortener](https://github.com/sxmplycaleb/URL-Shortener)** — Full-stack URL shortener with authentication, analytics, custom aliases, QR codes, and a modern dashboard
 
 ## 🌐 Let's Connect
 
