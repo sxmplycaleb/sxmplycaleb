@@ -49,7 +49,7 @@ Problem Solving | Communication | Team Collaboration | Leadership | Critical Thi
 
 ## 📊 GitHub Stats
 
-[![GitHub Readme Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxmplycaleb)](https://github.com/sxmplycaleb)
+[![GitHub Readme Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxmplycaleb&theme=dark)](https://github.com/sxmplycaleb)
 
 [![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sxmplycaleb&theme=github)](https://github.com/sxmplycaleb)
 
