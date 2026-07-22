@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I craft scalable, maintainable solutions across th
 
 ## 🚀 About Me
 
-I'm a full-stack developer passionate about building robust applications that solve real problems. I thrive at the intersection of elegant frontend experiences and powerful backend systems. With a deep commitment to clean code, best practices, and continuous learning, I believe in writing software that's not just functional but also a joy to maintain and extend.
+I'm a full-stack developer passionate about building robust applications that solve real problems. I thrive at the intersection of elegant frontend experiences and powerful backend systems. With a [...]
 
 - 🔭 Architecting scalable microservices and event-driven systems
 - 🌱 Mastering modern cloud infrastructure and DevOps practices
@@ -49,9 +49,8 @@ Problem Solving | Communication | Team Collaboration | Leadership | Critical Thi
 
 ## 📊 GitHub Stats
 
-![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sxmplycaleb&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sxmplycaleb&layout=compact&theme=radical)
+![GitHub followers](https://img.shields.io/github/followers/sxmplycaleb?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/sxmplycaleb?style=social)
 
 ## 📌 Featured Projects
 
@@ -80,6 +79,6 @@ I'm committed to:
 
 ---
 
-**Thanks for visiting!** 🙌 Feel free to explore my repositories, check out my latest projects, and don't hesitate to reach out if you'd like to collaborate, discuss architecture, or just chat about tech. Let's build something amazing together!
+**Thanks for visiting!** 🙌 Feel free to explore my repositories, check out my latest projects, and don't hesitate to reach out if you'd like to collaborate, discuss architecture, or just chat a[...]
 
 *Last updated: June 2026*
