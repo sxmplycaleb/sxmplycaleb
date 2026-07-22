@@ -51,6 +51,8 @@ Problem Solving | Communication | Team Collaboration | Leadership | Critical Thi
 
 [![GitHub Readme Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxmplycaleb)](https://github.com/sxmplycaleb)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sxmplycaleb&bg_color=ffffff&color=000000&line=36bcf7&point=36bcf7&area=true)](https://github.com/sxmplycaleb)
+
 ## 📌 Featured Projects
 
 - **[LnC](https://github.com/sxmplycaleb/lnc)** — A showcase of full-stack development excellence combining modern frontend frameworks with scalable backend architecture
