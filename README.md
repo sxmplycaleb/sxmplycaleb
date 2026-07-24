@@ -51,8 +51,6 @@ Problem Solving | Communication | Team Collaboration | Leadership | Critical Thi
 
 [![GitHub Readme Streak](https://github-readme-streak-stats.herokuapp.com/?user=sxmplycaleb&theme=dark)](https://github.com/sxmplycaleb)
 
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sxmplycaleb&theme=github)](https://github.com/sxmplycaleb)
-
 ## 📌 Featured Projects
 
 - **[OMANUTRO](https://github.com/sxmplycaleb/OMANUTRO)** — A showcase of full-stack development excellence combining modern frontend frameworks with scalable backend architecture
